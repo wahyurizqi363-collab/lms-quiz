@@ -1,0 +1,6 @@
+# Secrets and user uploads: never commit these
+config.php
+uploads/*
+!uploads/.gitkeep
+.DS_Store
+.vscode/

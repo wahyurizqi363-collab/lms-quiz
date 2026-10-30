@@ -4,6 +4,10 @@ An online quiz platform for lecturers and students. The timer runs on the server
 
 Built with **PHP, MySQL and vanilla JavaScript**. No framework.
 
+<img width="1359" height="688" alt="Screenshot 2026-10-30 124649" src="https://github.com/user-attachments/assets/41b7b224-ab35-4ddc-8110-5d6875942c34" />
+<img width="1365" height="681" alt="Screenshot 2026-10-30 124704" src="https://github.com/user-attachments/assets/917bc22c-fffc-444e-9591-2c8d2858bf8c" />
+
+
 ## Features
 
 **For students**
